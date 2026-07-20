@@ -1,4 +1,5 @@
 # QGIS-
+Project re-open: Double click the "Final Project.qgz"
 QGIS Mapping Workflow: 
 Stage 1: Data Import & Pre-processing
 *Load River Shapefile: Go to Browser > select shapefile and import the national waterway shapefile. Extract the four specific study rivers > Go to layer > save selected as features> select folder then save. 
